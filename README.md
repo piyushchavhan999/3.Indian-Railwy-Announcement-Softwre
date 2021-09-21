@@ -1,0 +1,2 @@
+# 3.Indian-Railwy-Announcement-Softwre
+  This project to demonstrate how we can generate the Railways Station Announcement by maintaining a database of required information regarding the trains in an excel sheet.By using this system we automatically generate audio file regarding announcement for railways through just Maintain a database in excel sheet of various information regarding the train no., name, source destination, platform no. on which train is arriving and so on. 
